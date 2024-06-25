@@ -108,3 +108,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 4. Then choose `GM9Megascript`.
 5. Finally, choose `Backup Options`.
 6. Choose `SysNAND`.
+7. Turn off the 3DS.
+8. Plug the SD card into your PC.
+9. Go to the folder "gm9" on the SD card and then to the "out" folder.
+10. Save the files `.bin`, '.bin.sha` and `.exefs` to a backup folder.
