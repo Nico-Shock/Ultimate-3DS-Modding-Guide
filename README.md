@@ -11,7 +11,11 @@ To format the SD card to `Fat32`, do the following:
    
    **Note:** If "Fat32" is not shown as an option, open the cmd as an administrator and execute the following commands:
 
-   ```sh diskpart list disk sel disk 2 // Select the number of the SD card, e.g. Disk 2 format fs=fat32 quick```
+   ```sh
+   diskpart
+   list disk
+   sel disk 2  // Select the number of the SD card, e.g. Disk 2
+   format fs=fat32 quick
 
 If you have an SD card larger than 32 GB and your 3DS does not recognize it, download the program "Fat32 Format" (von beliebiger Quelle). Select your SD card and set the size to 32768 to limit it to 32 GB.
 
@@ -23,7 +27,8 @@ To format the SD card in Linux, follow these steps:
 2. Select the SD card by entering `sudo fdisk /dev/disk1` (replace `disk1' with the actual name of the SD Card)
 3. Execute this command to format the partition to FAT32:
 
-   ```bash sudo mkfs.vfat -F 32 /dev/disk1```
+   ```bash
+   sudo mkfs.vfat -F 32 /dev/disk1
 
 ## MacOS:
 
