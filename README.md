@@ -44,7 +44,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 2. Unmount the SD card first with `diskutil unmountDisk /dev/disk1` (replace `disk1' with the actual name of the SD Card).
 3. Then execute the command to format the SD card to FAT32: `diskutil eraseDisk FAT 32 namedersdkarte MBRFormat /dev/disk1`.
 
-# 3DS Setup
+# 3DS Preparation
 
 1. Insert the SD card into your 3DS and wait for the data to be created on the SD Card.
 2. Go to Mii Maker and wait for the data to be created if it does not already exist.
