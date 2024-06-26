@@ -26,7 +26,7 @@ To format the SD card to `Fat32`, do the following:
    sel disk 2  // Select the number of the SD card, e.g. Disk 2
    format fs=fat32 quick
 
-If you have an SD card larger than 32 GB and your 3DS does not recognize it, download the program "Fat32 Format" (von beliebiger Quelle). Select your SD card and set the size to 32768 to limit it to 32 GB.
+If you have an SD card larger than 32 GB and your 3DS does not recognize it, download the program "Fat32 Format" (from any source). Select your SD card and set the size to 32768 to limit it to 32 GB.
 
 ## Linux:
 
@@ -52,7 +52,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 1. Insert the SD card into your 3DS and wait for the data to be created on the SD Card.
 2. Go to Mii Maker and wait for the data to be created if it does not already exist.
 3. Go to the System Settings, select "General Settings" and then go right to `System Update' (you should be at v.11.17.0-50; the letter behind the number only indicates the region).4
-4. In the system settings, go to "Data Management". Remove your SD card and insert it into your PC (Du solltest deinen 3DS eingeschaltet lassen).
+4. In the system settings, go to "Data Management". Remove your SD card and insert it into your PC (You should leave your 3DS turned on).
 
 # SD Card Setup
 
@@ -72,7 +72,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 1. Open the file `mset9.bat` (in Windows), `mseset9.py` (on Windows and Linux) or `msets9.command` (in macOS).
 2. In the script, choose whether you have a New 3DS or Old 3DS.
 3. Then choose `Inject MSET9 Payload`.
-4. Insert the SD card back into the 3DS (lass den 3DS eingeschaltet).
+4. Insert the SD card back into the 3DS (leave the 3DS on).
 
 # Load Payload
 
@@ -105,7 +105,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 1. Press the "Start" button before starting the 3DS to boot into the "GodMode9".
 2. Then select the "Home" button.
 3. Select `Scripts`.
-4. Then choose `Finalize` (Backup auch automatisch die NAND).
+4. Then choose `Finalize` (Backupt also automatically the NAND).
 5. Just press "A" and then the key combination that appears on the bottom screen.
 6. Restart your 3DS.
 7. Open "FBI".
