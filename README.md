@@ -16,7 +16,7 @@ I will try to capture my 3DS properly at some point to add pictures, and I will 
 To format the SD card to `Fat32`, do the following:
 
 1. Right-click on the SD card and choose `Format`.
-2. Select `Fat32` as your file system and click `Format'. 
+2. Select `Fat32` as your file system and click `Format`. 
    
    **Note:** If "Fat32" is not shown as an option, open the cmd as an administrator and execute the following commands:
 
