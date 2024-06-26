@@ -4,7 +4,7 @@ I will try to capture my 3DS properly at some point to add pictures, and I will 
 
 
 
-# SD Card Setup
+# SD Card Preparation
 
 You need an SD card with at least 2 GB of storage. Optimally, it should have more than 2 GB, preferably 32 GB.
 
@@ -51,7 +51,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 3. Go to the System Settings, select "General Settings" and then go right to `System Update' (you should be at v.11.17.0-50; the letter behind the number only indicates the region).4
 4. In the system settings, go to "Data Management". Remove your SD card and insert it into your PC (Du solltest deinen 3DS eingeschaltet lassen).
 
-# SD Card Preparation
+# SD Card Setup
 
 1. Download the 3DS Modding Setup data from the "Downloads.txt" file and unpack it.
 2. Install Python from the official website.
