@@ -85,7 +85,7 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 4. Select "Remove MSET9 Payload".
 5. Put your SD card back into the 3DS.
 
-# Enable Enable loading external FIRMs and modules and Enable Game patching to install mods
+# Enable "Enable loading external FIRMs and modules" and "Enable Game patching" to install mods
 
 1. Press the "Select" button before starting to enter the "Luma3DS Firmware" configuration mode.
 2. Place a hook on the options listed in this header.
