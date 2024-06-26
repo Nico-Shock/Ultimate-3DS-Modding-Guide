@@ -1,3 +1,9 @@
+## Updates:
+
+I will try to capture my 3DS properly at some point to add pictures, and I will also try to customize the texts better.
+
+
+
 # SD Card Setup
 
 You need an SD card with at least 2 GB of storage. Optimally, it should have more than 2 GB, preferably 32 GB.
