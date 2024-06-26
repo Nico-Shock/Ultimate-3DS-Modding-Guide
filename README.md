@@ -3,10 +3,13 @@
 I will try to capture my 3DS properly at some point to add pictures, and I will also try to customize the texts better.
 
 
+# What you need
+
+1. you need an SD card with at least 2 GB of storage space. Ideally, it should have more than 2 GB, preferably 32 GB.
+2. a 3DS or 2DS, whether Old, New, XL or normal.
+3. a PC, laptop or similar to change or add data to the SD card.
 
 # SD Card Preparation
-
-You need an SD card with at least 2 GB of storage. Optimally, it should have more than 2 GB, preferably 32 GB.
 
 ## Windows:
 
