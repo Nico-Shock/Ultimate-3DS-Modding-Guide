@@ -1,8 +1,3 @@
-## Updates:
-
-I will try to capture my 3DS properly at some point to add pictures, and I will also try to customize the texts better.
-
-
 # What you need
 
 1. you need an SD card with at least 2 GB of storage space. Ideally, it should have more than 2 GB, preferably 32 GB.
