@@ -85,6 +85,8 @@ I will try to capture my 3DS properly at some point to add pictures, and I will 
 
 # Install Homebrews and additional software
 
+## Standart Pack
+
 1. Press the "Start" button before starting the 3DS to boot into the "GodMode9".
 2. Then select the "Home" button.
 3. Select `Scripts`.
@@ -96,6 +98,15 @@ I will try to capture my 3DS properly at some point to add pictures, and I will 
 9. Then go to "cias".
 10. Select "current directory".
 11. Select "Install and Delete all CIAs".
+
+## Minimal Pack
+
+1. Download any ".cia" files and place them in a "cias" folder.
+2. Start Godmode9 and navigate to the SD card directory, then go to "cias".
+3. Select the CIA file, choose "CIA Image Options", and then "Install Game Image".
+4. Press the key combination to install the apps.
+
+I recommend installing "FBI", "Universal Updater", and "hShop". With FBI, you can install multiple images in the same way, and with Universal Updater, you can download most homebrew apps. With hShop, you can get any game for free that you cannot download via Universal Updater.
 
 # Backup of the NAND (Manuell)
 
