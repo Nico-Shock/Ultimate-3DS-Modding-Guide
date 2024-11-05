@@ -1,4 +1,6 @@
-# What you need
+# forgot to archive this repo I'm not supporting it anymore, no motivation left.
+
+## What you need
 
 1. you need an SD card with at least 2 GB of storage space. Ideally, it should have more than 2 GB, preferably 32 GB.
 2. a 3DS or 2DS, whether Old, New, XL or normal.
